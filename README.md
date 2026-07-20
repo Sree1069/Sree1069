@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="readme.png" width="100%">
+  <img src="readme.png" width="50%">
 </p>
 # 👋 Hi, I'm Sree Latha
 
