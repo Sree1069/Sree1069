@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
 # 👋 Hi, I'm Sree Latha
 
 ### Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast
