@@ -36,75 +36,55 @@ and grow as a software developer.
 
 # 🛠️ Tech Stack
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React.js
-
-### Backend
-- PHP
-- Python
-- Django
-- Flask
-
-### Database
-- MySQL
-- MongoDB
-
-### Programming Languages
-- Java
-- Python
-- C
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 # 🚀 Current Focus
 
 | Currently Learning | Currently Building |
 |--------------------|-------------------|
-| Full Stack Development | Hostel Management System |
-| Machine Learning | AI/ML Projects |
-| Data Structures & Algorithms | Portfolio Website |
+| Full stact development,react,js | Hostel Management System ,portfolio website|
+| Machine Learning,AI Agent| AI/ML Projects |
 | Cloud Technologies | Web Applications |
 
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
+- **🏠 Hostel Management System:** Full-stack web application for hostel  management system .
+- **🌐 Portfolio Website:** Professional portfolio showcasing my projects and technical skills.
+- **🤖 AI/ML Projects:** Intelligent applications built using Python and Scikit-learn.
+- **💻 Open Source Projects:** Personal and academic projects available on my GitHub.
 
-## 🏠 Hostel Management System
+## 📈 GitHub Analytics
 
-A complete hostel management web application developed to manage student 
-admissions, room allocation, and mess billing.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sree1069&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sree1069&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-**Technologies:**
-HTML, CSS, JavaScript, PHP, MySQL
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sree1069&theme=tokyonight&hide_border=true" />
+</p>
 
-
-## 🌐 Portfolio Website
-
-A personal portfolio website showcasing my skills, projects, and achievements.
-
-**Technologies:**
-HTML, CSS, JavaScript
-
-
-## 🤖 AI/ML Projects
-
-Working on machine learning projects involving data analysis and intelligent 
-applications.
-
-**Technologies:**
-Python, Scikit-learn, Machine Learning
-
-
-# 📊 GitHub Analytics
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sree1069&show_icons=true&theme=tokyonight)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sree1069&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sree1069&theme=tokyonight" />
+</p>
 
 
 # 🏆 Certifications & Achievements
