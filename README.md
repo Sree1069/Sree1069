@@ -3,9 +3,10 @@
 </p>
 <h1 align="center" style="font-size:60px;">
   Hi 👋, I'm Sree Latha
-</h1>
+
 
 ### Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast
+</h1>
 
 
 ## 👩‍💻 Professional Summary
