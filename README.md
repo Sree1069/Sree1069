@@ -112,11 +112,10 @@ flowchart TD
 
 # 📫 Connect With Me
 
-📧 Email: your-email@gmail.com
+📧 Email: ksreelatha1069@gmail.com
 
-💼 LinkedIn: Add your LinkedIn profile link
+💼 LinkedIn:(https://www.linkedin.com/in/kanakanti-sreelatha-b67774357/)
 
-🌐 Portfolio: Add your portfolio website link
 
 
 ---
