@@ -74,25 +74,40 @@ and grow as a software developer.
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sree1069&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sree1069&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sree1069&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Sree1069&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sree1069&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sree1069&theme=tokyonight" />
 
-# 🏆 Certifications & Achievements
+## ⏳ Developer Journey
 
-- NPTEL Certifications
-- Academic Projects
-- Web Development Projects
-- Hackathon Participation
+```mermaid
+flowchart TD
+    A[🎓 Started B.Tech in Computer Science]
+    B[💻 Learned Programming<br/>C • Java • Python]
+    C[🌐 Learned Web Development<br/>HTML • CSS • JavaScript]
+    D[⚙️ Explored Backend Development<br/>PHP • MySQL • Django]
+    E[🚀 Built Full Stack Projects<br/>Hostel Management System<br/>Portfolio Website]
+    F[🤖 Started AI & Machine Learning]
+    G[📚 Currently Learning<br/>React.js • Cloud Computing . AI Agent]
+    H[🎯 Future Software Engineer]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+```
+
+
+
 
 
 # 📫 Connect With Me
